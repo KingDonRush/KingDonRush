@@ -4,7 +4,7 @@ I build software and digital products through **AI-native, agent-directed develo
 My independent work spans agent tooling, React/TypeScript applications and custom
 WordPress/PHP/Elementor systems. I choose the platform according to the problem.
 
-Santa Catarina, Brazil · Available immediately · Brazil and international remote · PJ / contractor
+Santa Catarina, Brazil · Available immediately · Brazil and international remote
 
 ## Selected work
 
