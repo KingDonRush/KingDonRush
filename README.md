@@ -8,15 +8,17 @@ My work spans agent tooling, React/TypeScript applications and WordPress/PHP/Ele
 
 | Project | What it does |
 | --- | --- |
-| [Guilherme Studio OS](https://github.com/KingDonRush/Guilherme-Studio-OS) | React panel, local API/CLI and MCP over canonical records and a SQLite projection; explicit action lifecycle |
+| [Studio Control Plane](https://github.com/KingDonRush/studio-control-plane) | Local-first studio operations: clients, delivery, repositories, evidence and agent continuity |
 | [Simple Budget Plugin](https://github.com/KingDonRush/simple-budget-plugin) | Elementor quote carts with contextual templates, quantities and calculated price ranges |
 | [Agentic Ops](https://github.com/KingDonRush/agentic-ops) | CLI and MCP for inspectable plans, decisions, validation records and handoffs |
 | [WhatsApp Web MCP](https://github.com/KingDonRush/whatsapp-web-mcp) | Conversation/media tools, bounded history exports and confirmation-gated actions |
 
 ## More systems
 
-[Rental Operations](https://github.com/KingDonRush/rental-operations) explores
-Next.js booking and payment workflows. [Elementor Implementation Toolkit](https://github.com/KingDonRush/elementor-implementation-toolkit)
+[Rental Booking Dashboard](https://github.com/KingDonRush/rental-booking-dashboard)
+connects apartments, rooms, bookings, occupancy and payments.
+[Property Calendar Bridge](https://github.com/KingDonRush/property-calendar-bridge)
+reconciles external iCalendar feeds into persisted bookings and a consolidated calendar. [Elementor Implementation Toolkit](https://github.com/KingDonRush/elementor-implementation-toolkit)
 compiles content blueprints into WordPress implementations.
 [3D Viewer](https://github.com/KingDonRush/3d-viewer-to-wordpress) connects Elementor
 media controls to an interactive Three.js viewer.
