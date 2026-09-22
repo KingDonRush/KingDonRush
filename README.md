@@ -18,6 +18,9 @@ integrations, MCP tooling, and WordPress/Elementor plugins.
 | [WhatsApp Web MCP](https://github.com/KingDonRush/whatsapp-web-mcp) | Python MCP server with typed conversation/media tools, bounded exports and confirmation-gated actions over a domain-oriented service layer. |
 | [3D Viewer for WordPress and Elementor](https://github.com/KingDonRush/3d-viewer-to-wordpress) | WordPress/Elementor integration for GLB/glTF uploads and interactive Three.js model viewing, including editor controls and frontend lifecycle handling. |
 
+Supporting agent-tooling work: [Agentic Ops](https://github.com/KingDonRush/agentic-ops),
+a TypeScript CLI/MCP for inspectable plans, decisions, validation records and handoffs.
+
 The repositories document their architecture, verification and current boundaries.
 I use OpenAI Codex to direct implementation: I define objectives, requirements,
 constraints and architecture, then review diffs, tests, documentation and acceptance
