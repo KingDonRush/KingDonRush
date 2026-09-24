@@ -1,39 +1,59 @@
 # Guilherme Manoel da Silva
 
-I build full-stack software and digital products with React, TypeScript, Node.js and
-PHP/WordPress. My work spans responsive interfaces, APIs and integrations, MCP and
-agent tooling, and interactive WordPress experiences. I use AI-native,
-agent-directed development with OpenAI Codex: I define objectives, requirements,
-constraints and architecture, then review diffs, tests, documentation and acceptance
-from implementation through verification.
+Full-stack software engineer building product applications and integrations with
+TypeScript, React, Next.js and Node.js.
 
-## Selected independent work
+I work across frontend, backend, data and external integrations, with a secondary
+specialization in PHP/WordPress/Elementor. My projects emphasize working software,
+tests, explicit operational boundaries and maintainable interfaces.
 
-| Project | Technical evidence |
-| --- | --- |
-| [Studio Control Plane](https://github.com/KingDonRush/studio-control-plane) | Local-first React panel plus TypeScript API/CLI and MCP interface over YAML/Markdown records with a SQLite projection; domain services, adapters and agent-continuity workflows. Verification includes typecheck, 65 tests, lint and workspace builds. |
-| [Rental Booking Dashboard](https://github.com/KingDonRush/rental-booking-dashboard) | Responsive Next.js/React/TypeScript dashboard with Supabase authentication and persistence for apartments, rooms, bookings, occupancy and payment state. Its 141-test Jest suite covers hooks, components, validation and dashboard flows. |
-| [Property Calendar Bridge](https://github.com/KingDonRush/property-calendar-bridge) | TypeScript/Next.js integration service that parses and reconciles source-scoped iCalendar feeds into Supabase/Postgres bookings, sync history and a consolidated calendar, with HTTP and disposable-database verification. |
-| [Simple Budget Plugin](https://github.com/KingDonRush/simple-budget-plugin) | PHP WordPress/Elementor plugin with native widgets, contextual templates, quantity-aware estimates and visitor-facing WhatsApp quote links. WordPress smoke checks cover permissions, pricing, migration and fallback behavior. |
-| [WhatsApp Web MCP](https://github.com/KingDonRush/whatsapp-web-mcp) | Python MCP server with typed conversation/media tools, bounded exports and confirmation-gated actions over a domain-oriented service layer. Offline tests cover schemas, history boundaries, replay protection and private persistence. |
-| [3D Viewer for WordPress and Elementor](https://github.com/KingDonRush/3d-viewer-to-wordpress) | WordPress/Elementor integration for GLB/glTF uploads and interactive Three.js model viewing, including editor controls and frontend lifecycle handling. Upload-validation smoke scenarios run in an isolated WordPress environment. |
+## Selected work
 
-Supporting agent-tooling work: [Agentic Ops](https://github.com/KingDonRush/agentic-ops), a
-TypeScript CLI/MCP for inspectable plans, decisions, validation records and handoffs.
+### [Rental Booking Dashboard](https://github.com/KingDonRush/rental-booking-dashboard)
+**Next.js · React · TypeScript · Supabase · Jest**
 
-The repositories show the architecture, verification and current boundaries of each
-system.
+Responsive operations dashboard for apartments, rooms, bookings, occupancy and
+payment state. Includes authentication, persistent data flows and a 141-test suite.
+
+### [Property Calendar Bridge](https://github.com/KingDonRush/property-calendar-bridge)
+**TypeScript · Next.js · PostgreSQL · Supabase · iCalendar**
+
+Integration service that reconciles external booking-calendar feeds into persisted
+property bookings, sync history and a consolidated occupancy calendar.
+
+### [Studio Control Plane](https://github.com/KingDonRush/studio-control-plane)
+**TypeScript · React · Node.js · SQLite · CLI · MCP**
+
+Local-first operations system connecting client work, software delivery, repositories,
+verification and repeatable engineering workflows. Its shared domain services power
+a React panel, local API, CLI and MCP interface, with 65 tests plus typecheck, lint
+and workspace builds.
+
+## WordPress engineering
+
+I also build custom WordPress/Elementor integrations in PHP and JavaScript, including
+an [interactive Three.js 3D viewer](https://github.com/KingDonRush/3d-viewer-to-wordpress)
+and [quote/estimation tooling](https://github.com/KingDonRush/simple-budget-plugin).
+
+## Engineering workflow
+
+I use coding agents, including OpenAI Codex, as part of an agent-assisted workflow:
+I define scope, constraints and architecture, inspect implementation changes, run
+verification, review diffs and keep explicit acceptance boundaries.
 
 ## Focus
 
-React · TypeScript · Node.js · APIs and integrations · PHP/WordPress/Elementor ·
-MCP and agent tooling · testing and verification
+TypeScript · React · Next.js · Node.js · APIs and integrations · PostgreSQL/Supabase ·
+PHP/WordPress/Elementor · testing and verification · MCP and developer tooling
 
 ## Em português
 
-Construo software e produtos digitais full-stack com TypeScript, React, Node.js e
-PHP/WordPress, usando desenvolvimento AI-native e agent-directed. Meu trabalho inclui
-sistemas locais, aplicações React, APIs e integrações, ferramentas MCP e plugins
-WordPress/Elementor.
+Sou engenheiro de software full-stack focado em aplicações e integrações com
+TypeScript, React, Next.js e Node.js. Também desenvolvo integrações e plugins em
+PHP/WordPress/Elementor, com atenção a testes, limites operacionais e manutenção.
 
-Santa Catarina, Brasil · [Contato](mailto:guilherme.manoelbbs@gmail.com)
+## Contact
+
+Santa Catarina, Brasil  
+Open to full-stack, product engineering and integration roles.  
+[Email](mailto:guilherme.manoelbbs@gmail.com)
