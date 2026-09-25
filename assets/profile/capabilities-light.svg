@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190">
+  <rect width="960" height="190" fill="transparent"/>
+  <text x="34" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#59636E">CAPABILITIES</text>
+  <line x1="34" y1="55" x2="926" y2="55" stroke="#D8DEE4"/>
+  <circle cx="38" cy="88" r="4" fill="#D83F50"/>
+  <text x="52" y="93" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="750" fill="#1F2328">PLUGIN SYSTEMS</text>
+  <text x="34" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">Custom plugins, hooks, media,</text>
+  <text x="34" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">data flows and migrations.</text><line x1="246" y1="75" x2="246" y2="163" stroke="#D8DEE4"/>
+  <circle cx="268" cy="88" r="4" fill="#1B7EA5"/>
+  <text x="282" y="93" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="750" fill="#1F2328">ELEMENTOR UX</text>
+  <text x="264" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">Widgets, controls, contextual</text>
+  <text x="264" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">templates and editor lifecycle.</text><line x1="476" y1="75" x2="476" y2="163" stroke="#D8DEE4"/>
+  <circle cx="498" cy="88" r="4" fill="#6F5BD3"/>
+  <text x="512" y="93" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="750" fill="#1F2328">INTERACTIVE FRONTEND</text>
+  <text x="494" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">JavaScript behavior, Three.js</text>
+  <text x="494" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">and responsive interfaces.</text><line x1="706" y1="75" x2="706" y2="163" stroke="#D8DEE4"/>
+  <circle cx="728" cy="88" r="4" fill="#287A55"/>
+  <text x="742" y="93" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="750" fill="#1F2328">INTEGRATION & RELIABILITY</text>
+  <text x="724" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">External flows, persistence,</text>
+  <text x="724" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#59636E">testing and explicit limits.</text></svg>

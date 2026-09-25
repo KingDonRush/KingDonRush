@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="285" viewBox="0 0 960 285">
+  <rect width="960" height="285" fill="transparent"/>
+  <text x="34" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#59636E">MORE WORDPRESS WORK</text>
+
+  <rect x="34" y="58" width="430" height="194" rx="18" fill="#F6F8FA" stroke="#D8DEE4"/>
+  <rect x="34" y="58" width="4" height="194" rx="2" fill="#D83F50"/>
+  <text x="60" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#D83F50">QUOTE WORKFLOWS</text>
+  <text x="60" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="750" fill="#1F2328">Simple Budget Plugin</text>
+  <text x="60" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#59636E">Quotation flows without turning the site into</text>
+  <text x="60" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#59636E">a checkout: widgets, templates and pricing logic.</text>
+  <text x="60" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="650" fill="#1F2328">Elementor Widgets   ·   Template System   ·   Estimates</text>
+
+  <rect x="496" y="58" width="430" height="194" rx="18" fill="#F6F8FA" stroke="#D8DEE4"/>
+  <rect x="496" y="58" width="4" height="194" rx="2" fill="#6F5BD3"/>
+  <text x="522" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#6F5BD3">IMPLEMENTATION TOOLING</text>
+  <text x="522" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="750" fill="#1F2328">Elementor Implementation Toolkit</text>
+  <text x="522" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#59636E">From declarative content blueprints to forms,</text>
+  <text x="522" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#59636E">collections, validation and builder workflows.</text>
+  <text x="522" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="650" fill="#1F2328">Blueprints   ·   Forms &amp; Collections   ·   Verification</text>
+</svg>

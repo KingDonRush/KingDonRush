@@ -1,35 +1,45 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg">
-  <img alt="Guilherme Manoel da Silva — WordPress, PHP and Elementor developer" src="./assets/profile/hero-light.svg" width="100%">
+  <img alt="WordPress engineering — plugins, Elementor systems and interactive web experiences" src="./assets/profile/hero-light.svg" width="100%">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/projects-light.svg">
-  <img alt="Selected WordPress work: 3D Viewer, Simple Budget and Elementor Implementation Toolkit" src="./assets/profile/projects-light.svg" width="100%">
-</picture>
+<a href="https://github.com/KingDonRush/3d-viewer-to-wordpress">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/flagship-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/flagship-light.webp">
+    <img alt="3D Viewer for WordPress and Elementor — project case" src="./assets/profile/flagship-light.webp" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://github.com/KingDonRush/3d-viewer-to-wordpress"><strong>3D Viewer</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/KingDonRush/simple-budget-plugin"><strong>Simple Budget Plugin</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/KingDonRush/elementor-implementation-toolkit"><strong>Elementor Implementation Toolkit</strong></a>
+  <a href="https://github.com/KingDonRush/3d-viewer-to-wordpress"><strong>View repository</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/KingDonRush/3d-viewer-to-wordpress/blob/main/docs/media/elementor-3d-viewer.gif">Working animation</a>
 </p>
 
-### Working demo — 3D Viewer inside Elementor
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/capabilities-light.svg">
+  <img alt="WordPress engineering capabilities" src="./assets/profile/capabilities-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/cases-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/cases-light.svg">
+  <img alt="Simple Budget Plugin and Elementor Implementation Toolkit" src="./assets/profile/cases-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KingDonRush/3d-viewer-to-wordpress/main/docs/media/elementor-3d-viewer.gif" alt="Interactive GLB/glTF model viewer running inside the Elementor editor" width="900">
+  <a href="https://github.com/KingDonRush/simple-budget-plugin"><strong>Simple Budget Plugin</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/KingDonRush/elementor-implementation-toolkit"><strong>Elementor Implementation Toolkit</strong></a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/breadth-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile/breadth-light.svg">
-  <img alt="Broader software engineering work in Next.js, TypeScript, PostgreSQL, React, Node.js and MCP" src="./assets/profile/breadth-light.svg" width="100%">
+  <img alt="Broader software engineering work" src="./assets/profile/breadth-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -41,7 +51,7 @@
 </p>
 
 <details>
-<summary><strong>Engineering workflow</strong></summary>
+<summary><strong>How I work</strong></summary>
 
 I use coding agents, including OpenAI Codex, as part of an agent-assisted workflow:
 I define scope and constraints, review implementation changes, run verification and
