@@ -4,13 +4,16 @@
   <img alt="WordPress engineering — plugins, Elementor systems and interactive web experiences" src="./assets/profile/hero-light.svg" width="100%">
 </picture>
 
-<a href="https://github.com/KingDonRush/3d-viewer-to-wordpress">
+<p align="center">
+  <a href="https://github.com/KingDonRush/3d-viewer-to-wordpress">
+    <img src="https://raw.githubusercontent.com/KingDonRush/3d-viewer-to-wordpress/main/docs/media/elementor-3d-viewer.gif" alt="Interactive GLB/glTF model viewer running inside Elementor" width="55%">
+  </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/flagship-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/flagship-light.svg">
-    <img alt="3D Viewer for WordPress and Elementor — interactive 3D inside Elementor" src="./assets/profile/flagship-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/flagship-copy-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/flagship-copy-light.svg">
+    <img alt="3D Viewer for WordPress and Elementor — project summary" src="./assets/profile/flagship-copy-light.svg" width="40%">
   </picture>
-</a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/capabilities-dark.svg">
