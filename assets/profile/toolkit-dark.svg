@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="236" viewBox="0 0 460 236">
+<rect x="1" y="1" width="458" height="234" rx="20" fill="#111922" stroke="#263442"/>
+<rect x="22" y="1" width="86" height="3" rx="1.5" fill="#8B7CFF"/>
+<g transform="translate(24,23)"><rect width="44" height="44" rx="13" fill="#8B7CFF" opacity=".14"/><rect x="11" y="11" width="22" height="22" rx="3" stroke="#F4F7FA" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M18 11v22M26 11v22M11 18h22M11 26h22" stroke="#F4F7FA" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="82" y="40" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing=".9" fill="#8B7CFF">ELEMENTOR TOOLING</text>
+<text x="24" y="100" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="750" fill="#F4F7FA">Implementation Toolkit</text>
+<text x="24" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#93A3B5">Blueprint-driven structures for content, forms and collections.</text>
+<text x="24" y="154" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#93A3B5">Implementation workflows with explicit validation.</text>
+<line x1="24" y1="177" x2="436" y2="177" stroke="#263442"/>
+<text x="24" y="208" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="650" fill="#F4F7FA">Blueprints  ·  Forms &amp; collections  ·  Verification</text></svg>

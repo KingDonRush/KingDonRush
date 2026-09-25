@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="236" viewBox="0 0 460 236">
+<rect x="1" y="1" width="458" height="234" rx="20" fill="#111922" stroke="#263442"/>
+<rect x="22" y="1" width="86" height="3" rx="1.5" fill="#FF5A67"/>
+<g transform="translate(24,23)"><rect width="44" height="44" rx="13" fill="#FF5A67" opacity=".14"/><path d="M14 10h16v24l-4-2-4 2-4-2-4 2z" stroke="#F4F7FA" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M18 17h8M18 22h8M18 27h5" stroke="#F4F7FA" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="82" y="40" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing=".9" fill="#FF5A67">QUOTE WORKFLOWS</text>
+<text x="24" y="100" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="750" fill="#F4F7FA">Simple Budget Plugin</text>
+<text x="24" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#93A3B5">Quotation flows without turning the site into a checkout.</text>
+<text x="24" y="154" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#93A3B5">Widgets, contextual templates and quantity-aware estimates.</text>
+<line x1="24" y1="177" x2="436" y2="177" stroke="#263442"/>
+<text x="24" y="208" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="650" fill="#F4F7FA">Elementor widgets  ·  Template system  ·  Estimate logic</text></svg>
