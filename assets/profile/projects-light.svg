@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+  <rect width="1200" height="500" rx="28" fill="#ffffff"/>
+  <text x="54" y="60" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#0969da">SELECTED WORDPRESS WORK</text>
+  <text x="54" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#1f2328">Focused projects with working behavior and verification.</text>
+  <rect x="54" y="138" width="332" height="306" rx="22" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="54" y="138" width="6" height="306" rx="3" fill="#21759b"/>
+  <text x="80" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#59636e">01</text>
+  <text x="80" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#1f2328">3D Viewer</text>
+  <text x="80" y="246" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#21759b">Interactive Elementor widget</text>
+  <text x="80" y="292" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59636e">GLB/glTF model viewing with custom media</text>
+  <text x="80" y="316" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59636e">controls and a Three.js frontend lifecycle.</text>
+  <rect x="80" y="358" width="43" height="32" rx="16" fill="#eaeef2"/>
+  <text x="101.5" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">PHP</text>
+  <rect x="131" y="358" width="94" height="32" rx="16" fill="#eaeef2"/>
+  <text x="178" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Elementor</text>
+  <rect x="233" y="358" width="85" height="32" rx="16" fill="#eaeef2"/>
+  <text x="275.5" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Three.js</text>
+  <text x="80" y="420" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0969da">Repository ↗</text>
+  <rect x="414" y="138" width="332" height="306" rx="22" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="414" y="138" width="6" height="306" rx="3" fill="#92003b"/>
+  <text x="440" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#59636e">02</text>
+  <text x="440" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#1f2328">Simple Budget</text>
+  <text x="440" y="246" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#92003b">Quote-request workflows</text>
+  <text x="440" y="292" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59636e">Native Elementor widgets, contextual templates,</text>
+  <text x="440" y="316" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59636e">quantity-aware estimates and WhatsApp links.</text>
+  <rect x="440" y="358" width="43" height="32" rx="16" fill="#eaeef2"/>
+  <text x="461.5" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">PHP</text>
+  <rect x="491" y="358" width="94" height="32" rx="16" fill="#eaeef2"/>
+  <text x="538" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">WordPress</text>
+  <rect x="593" y="358" width="102" height="32" rx="16" fill="#eaeef2"/>
+  <text x="644" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">JavaScript</text>
+  <text x="440" y="420" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0969da">Repository ↗</text>
+  <rect x="774" y="138" width="332" height="306" rx="22" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="774" y="138" width="6" height="306" rx="3" fill="#8250df"/>
+  <text x="800" y="178" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#59636e">03</text>
+  <text x="800" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#1f2328">Implementation Toolkit</text>
+  <text x="800" y="246" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#8250df">Blueprint-driven tooling</text>
+  <text x="800" y="292" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59636e">Content structures, forms, collections and</text>
+  <text x="800" y="316" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59636e">validation for Elementor implementations.</text>
+  <rect x="800" y="358" width="43" height="32" rx="16" fill="#eaeef2"/>
+  <text x="821.5" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">PHP</text>
+  <rect x="851" y="358" width="94" height="32" rx="16" fill="#eaeef2"/>
+  <text x="898" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Elementor</text>
+  <rect x="953" y="358" width="77" height="32" rx="16" fill="#eaeef2"/>
+  <text x="991.5" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">Testing</text>
+  <text x="800" y="420" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0969da">Repository ↗</text></svg>

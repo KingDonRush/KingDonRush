@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="28" fill="#0d1117"/>
+  <text x="54" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#8250df">BROADER ENGINEERING</text>
+  <text x="54" y="94" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#f0f6fc">Full-stack is supporting range, not the headline.</text>
+  <rect x="54" y="128" width="338" height="118" rx="18" fill="#161b22" stroke="#30363d"/>
+  <text x="76" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Rental Booking Dashboard</text>
+  <text x="76" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#8b949e">Next.js · TypeScript · Supabase</text>
+  <text x="76" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#3fb950">Product UI · persistence · tests</text>
+  <rect x="431" y="128" width="338" height="118" rx="18" fill="#161b22" stroke="#30363d"/>
+  <text x="453" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Property Calendar Bridge</text>
+  <text x="453" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#8b949e">TypeScript · PostgreSQL · iCalendar</text>
+  <text x="453" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#3fb950">Reconciliation · history · verification</text>
+  <rect x="808" y="128" width="338" height="118" rx="18" fill="#161b22" stroke="#30363d"/>
+  <text x="830" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Studio Control Plane</text>
+  <text x="830" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#8b949e">TypeScript · React · Node · MCP</text>
+  <text x="830" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#3fb950">Shared services · CLI · tooling</text>
+</svg>
